@@ -1,0 +1,231 @@
+
+@media(max-width: 1199px){
+
+	.search button{
+		right: 10%;
+	}
+
+	.body1-txt{
+		padding-top: 170px;
+		padding-bottom: 125px;
+
+	}
+
+	.body1-txt a{
+		font-size: 19px;
+		padding: 15px 40px;
+	}
+
+	.body1{
+		background-size: cover;
+	}
+
+	.body3{
+		background-size: cover;
+	}
+
+	.body4{
+		background-size: cover;
+	}
+
+	.body4-txt{
+		padding-top: 80px;
+	}
+
+	.body5{
+		background-size: cover;
+	}
+
+	.body5-txt{
+		padding-top: 80px;
+	}
+
+	footer{
+		text-align: center;
+	}
+
+	.social{
+		display: flex;
+		justify-content: center;
+	}
+
+	.title{
+		margin-top: 30px;
+	}
+
+}
+
+@media(max-width: 991px){
+	.menu ul li a{
+		font-size: 15px;
+		padding: 0 10px;
+	}
+
+	.search button{
+		right: -23%;
+	}
+
+	.body1-txt h2{
+		font-size: 80px;
+	}
+
+	.body1-txt p{
+		font-size: 20px;
+	}
+	.card{
+		margin-bottom: 30px;
+	}
+
+	.body3{
+		background-position: center;
+	}
+
+	.dance h4{
+		font-size: 50px;
+	}
+
+	.dance p{
+		font-size: 20px;
+	}
+
+	.body7{
+		padding: 200px 0;
+	}
+
+
+}
+
+@media(max-width: 767px){
+	.menu ul li a{
+		font-size: 10px;
+		padding: 0 7px;
+	}
+
+	.search button{
+		right: -9%;
+	}
+
+	.search input{
+		width: 120px;
+	}
+
+	.body1{
+		background-position: center;
+	}
+
+	.back{
+		top: 50%;
+	}
+
+	.dance h4{
+		font-size: 30px;
+	}
+
+	.dance p{
+		font-size: 12px;
+	}
+
+	.dance button{
+		font-size: 13px;
+		padding: 10px 20px;
+	}
+
+	.stat{
+		display: block;
+	}
+
+	.num{
+		margin-bottom: 20px;
+	}
+
+	.body7-txt p{
+		font-size: 30px;
+	}
+
+	.body7-txt h6{
+		font-size: 38px;
+	}
+
+	.body7{
+		background-position: center;
+	}
+
+	.sub input{
+		width: 500px;
+		display: block;
+	}
+
+	.sub button{
+		margin-top: 20px;
+		border-radius: 0;
+		right: 20%;
+}
+
+
+@media(max-width: 575px){
+	.menu ul li a{
+		font-size: 8px;
+		padding: 0 7px;
+	}
+
+	.search button{
+		right: 5px;
+		top: 10px;
+	}
+
+	.search input{
+		width: 65px;
+	}
+
+	.search button img{
+		max-width: 10px;
+	}
+
+	.body1{
+		background-position: right;
+	}
+
+	.back{
+		top: 70%;
+	}
+
+	.dance button{
+		margin-top: 0;
+		font-size: 10px;
+		padding: 5px 10px;
+		margin-bottom: 10px;
+	}
+
+	.body4-txt{
+		padding-top: 20px;
+	}
+
+	.body5-txt{
+		padding-top: 20px;
+	}
+
+	.dance h4{
+		font-size: 20px;
+	}
+
+	.dance p{
+		font-size: 10px;
+	}
+
+	.body6-txt h2{
+		font-size: 65px;
+	}
+
+	.sub input{
+		width: 300px;
+		display: block;
+	}
+
+	.body8-txt h2{
+		font-size: 55px;
+	}
+
+
+}
+
+	
